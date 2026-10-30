@@ -2,9 +2,9 @@ project:
   type: website
 
 website:
-  description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "kayak-fishing-blog"
+  description: "Kayak Fishing Blog by Real Florida Fishing"
+  site-url: https://RealFloridaFishing.github.io/kayak-fishing-blog/ # you must change this appropriately for RSS feeds to work properly
+  title: "Kayak Fishing Blog by Real Florida Fishing"
   navbar:
     right:
       - about.qmd
