@@ -1,6 +1,6 @@
 ---
 title: "Real Florida Fishing"
-image: Redfish2.jpg
+image: Redfish2.png
 about:
   template: jolla
   links:
