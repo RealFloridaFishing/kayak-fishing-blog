@@ -16,10 +16,12 @@ website:
         text: Videos
       - href: about.qmd
         text: About
+  page-footer:
+    center: |
+      <a href="https://www.youtube.com/@RealFLFishing" target="_blank" rel="noopener noreferrer"><i class="bi bi-youtube" aria-hidden="true"></i> Youtube Channel</a>
 
 format:
   html:
     theme: darkly
     css: styles.css
     toc: true
-

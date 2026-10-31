@@ -1,11 +1,9 @@
 ---
 title: "Videos"
-description: "Kayak fishing videos from Real Florida Fishing."
 page-layout: full
 title-block-banner: true
 ---
 
-Videos from my kayak fishing trips.
 
 ::: {.youtube-videos}
 

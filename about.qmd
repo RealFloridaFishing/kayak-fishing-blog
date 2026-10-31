@@ -5,10 +5,6 @@ about:
   image: Redfish2.png
   image-shape: rectangle
   image-width: 600px
-  links:
-    - icon: youtube
-      text: Youtube Channel
-      href: https://www.youtube.com/@RealFLFishing
 
 ---
 
