@@ -1,8 +1,10 @@
 ---
 title: "Real Florida Fishing"
-image: Redfish2.png
 about:
   template: jolla
+  image: Redfish2.png
+  image-shape: rectangle
+  image-width: 600px
   links:
     - icon: youtube
       text: Youtube Channel

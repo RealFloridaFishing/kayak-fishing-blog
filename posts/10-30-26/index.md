@@ -5,9 +5,9 @@ listing:
   contents: posts
   sort: "date desc"
   type: grid
-  categories: true
-  sort-ui: true
-  filter-ui: true
+  categories: false
+  sort-ui: false
+  filter-ui: false
   fields: [image, date, title, author, reading-time, description, categories]
 page-layout: full
 title-block-banner: true
