@@ -1,0 +1,99 @@
+---
+title: "Videos"
+description: "Kayak fishing videos from Real Florida Fishing."
+page-layout: full
+title-block-banner: true
+---
+
+Videos from my kayak fishing trips.
+
+::: {.youtube-videos}
+
+::: {.video-card}
+## Surprise catch inshore fishing the IRL 10-4-26
+
+::: {.youtube-video}
+<iframe src="https://www.youtube-nocookie.com/embed/f93azD1CvVo" title="Surprise catch inshore fishing the IRL 10-4-26" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+:::
+
+::: {.video-card}
+## How to NOT Catch Schooling and Tailing Redfish
+
+::: {.youtube-video}
+<iframe src="https://www.youtube-nocookie.com/embed/xMCTFHE1nPE" title="How to NOT Catch Schooling and Tailing Redfish" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+:::
+
+::: {.video-card}
+## Edgewater Inshore fishing
+
+::: {.youtube-video}
+<iframe src="https://www.youtube-nocookie.com/embed/9oqb_V7EIKA" title="Edgewater Inshore fishing" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+:::
+
+::: {.video-card}
+## 1st trip to Lake Baldwin
+
+::: {.youtube-video}
+<iframe src="https://www.youtube-nocookie.com/embed/XUc9o9Ubdtc" title="1st trip to Lake Baldwin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+:::
+
+::: {.video-card}
+## Inshore Fishing in Oak Hill, FL
+
+::: {.youtube-video}
+<iframe src="https://www.youtube-nocookie.com/embed/vRFNUmCo40g" title="Inshore Fishing in Oak Hill, FL" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+:::
+
+::: {.video-card}
+## Inshore Fishing Titusville, FL
+
+::: {.youtube-video}
+<iframe src="https://www.youtube-nocookie.com/embed/WUFZYgz5sQQ" title="Inshore Fishing Titusville, FL" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+:::
+
+::: {.video-card}
+## Catching BIG bass in Orlando
+
+::: {.youtube-video}
+<iframe src="https://www.youtube-nocookie.com/embed/0KlYfYofqIM" title="Catching BIG bass in Orlando" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+:::
+
+::: {.video-card}
+## Bass fishing Red Bug Lake in Casselberry, FL
+
+::: {.youtube-video}
+<iframe src="https://www.youtube-nocookie.com/embed/yc9R7fzsVrY" title="Bass fishing Red Bug Lake in Casselberry, FL" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+:::
+
+::: {.video-card}
+## Lake Orienta Bass Fishing 4/14/24
+
+::: {.youtube-video}
+<iframe src="https://www.youtube-nocookie.com/embed/fl-yIENziYg" title="Lake Orienta Bass Fishing 4/14/24" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+:::
+
+::: {.video-card}
+## Inshore fishing in Edgewater, FL
+
+::: {.youtube-video}
+<iframe src="https://www.youtube-nocookie.com/embed/6DCDJkwk6kU" title="Inshore fishing in Edgewater, FL" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+:::
+
+::: {.video-card}
+## Central Florida Bass Fishing in January
+
+::: {.youtube-video}
+<iframe src="https://www.youtube-nocookie.com/embed/ekuLTtz18Do" title="Central Florida Bass Fishing in January" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+:::
+:::

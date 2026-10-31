@@ -1,6 +1,6 @@
 ---
 title: "Gear Reviews"
-description: "Reviews of fishing gear and equipment."
+description: "All gear reviews are personal opinions on gear I have purchased with my own money."
 listing:
   contents: posts/Gear-reviews
   sort: "date desc"
@@ -12,5 +12,3 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-
-All gear reviews are personal opinions on gear I have purchased with my own money.

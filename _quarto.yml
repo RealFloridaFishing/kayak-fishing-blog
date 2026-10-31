@@ -10,15 +10,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: gear-reviews.qmd
         text: Gear Reviews
+      - href: videos.qmd
+        text: Videos
+      - href: about.qmd
+        text: About
 
 format:
   html:
     theme: darkly
     css: styles.css
     toc: true
-
 
