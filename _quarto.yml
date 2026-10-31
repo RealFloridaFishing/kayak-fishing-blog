@@ -12,15 +12,13 @@ website:
         text: Home
       - href: about.qmd
         text: About
-    right:
-      - icon: github
-        href: https://github.com/realfloridafishing
+      - href: gear-reviews.qmd
+        text: Gear Reviews
 
 format:
   html:
     theme: darkly
     css: styles.css
     toc: true
-
 
 
