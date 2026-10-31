@@ -10,7 +10,26 @@
 <atom:link href="https://RealFloridaFishing.github.io/kayak-fishing-blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Inshore &amp; Bass Kayak Fishing Tips in Central Florida</description>
 <generator>quarto-1.10.20</generator>
-<lastBuildDate>Sat, 31 Oct 2026 02:09:10 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Windy Weekend Conditions: October 31–November 1, 2026</title>
+  <link>https://RealFloridaFishing.github.io/kayak-fishing-blog/posts/10-30_conditions/Conditions_10-30.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The forecast for Saturday, October 31, and Sunday, November 1, is calling for winds around 15 mph. I’ll be staying off the water this weekend.</p>
+<p>In my experience, once the wind gets much above 10 mph, kayak fishing becomes more work than fun. It can be harder to control the kayak, stay on a spot, and make for an uncomfortable day of fishing.</p>
+<p>If you decide to go, spot selection is critical. Look for a protected area with limited exposure to the wind rather than heading out onto open water. The wind is expected to come from the east, so I would be looking for an eastern shoreline here. One critical piece of planning is knowing your limitations - don’t get caught in a situation where you don’t have the strength or the ability to make it back. If you are just starting out, save your trips for days with lower wind speeds and work your way up to learn your comfort zone.</p>
+
+
+
+ ]]></description>
+  <guid>https://RealFloridaFishing.github.io/kayak-fishing-blog/posts/10-30_conditions/Conditions_10-30.html</guid>
+  <pubDate>Fri, 30 Oct 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Video Archives</title>
   <link>https://RealFloridaFishing.github.io/kayak-fishing-blog/posts/10-30-26/</link>
@@ -25,38 +44,13 @@
 
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-title" data-direction="asc">
-        Title
-      </option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-      <option value="listing-author" data-direction="asc">
-        Author
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
 <div class="list grid quarto-listing-cols-3">
 
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div> ]]></description>
   <guid>https://RealFloridaFishing.github.io/kayak-fishing-blog/posts/10-30-26/</guid>
-  <pubDate>Sat, 31 Oct 2026 02:09:10 GMT</pubDate>
+  <pubDate>Sat, 31 Oct 2026 02:25:55 GMT</pubDate>
 </item>
 </channel>
 </rss>
