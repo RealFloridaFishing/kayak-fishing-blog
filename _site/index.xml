@@ -5,11 +5,58 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Kayak Fishing Blog by Real Florida Fishing</title>
+<title>Kayak Fishing Blog</title>
 <link>https://RealFloridaFishing.github.io/kayak-fishing-blog/</link>
 <atom:link href="https://RealFloridaFishing.github.io/kayak-fishing-blog/index.xml" rel="self" type="application/rss+xml"/>
-<description>Kayak Fishing Blog by Real Florida Fishing</description>
+<description>Inshore &amp; Bass Kayak Fishing Tips in Central Florida</description>
 <generator>quarto-1.10.20</generator>
-<lastBuildDate>Fri, 30 Oct 2026 15:27:14 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 17:22:44 GMT</lastBuildDate>
+<item>
+  <title>Welcome!</title>
+  <link>https://RealFloridaFishing.github.io/kayak-fishing-blog/posts/10-30-26/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list grid quarto-listing-cols-3">
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div> ]]></description>
+  <guid>https://RealFloridaFishing.github.io/kayak-fishing-blog/posts/10-30-26/</guid>
+  <pubDate>Fri, 30 Oct 2026 17:22:44 GMT</pubDate>
+</item>
 </channel>
 </rss>

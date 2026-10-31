@@ -1,5 +1,5 @@
 ---
-title: "kayak-fishing-blog"
+title: "Real Florida Fishing"
 listing:
   contents: posts
   feed: true

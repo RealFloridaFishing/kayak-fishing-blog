@@ -2,22 +2,25 @@ project:
   type: website
 
 website:
-  description: "Kayak Fishing Blog by Real Florida Fishing"
-  site-url: https://RealFloridaFishing.github.io/kayak-fishing-blog/ # you must change this appropriately for RSS feeds to work properly
-  title: "Kayak Fishing Blog by Real Florida Fishing"
+  title: "Kayak Fishing Blog"
+  description: "Inshore & Bass Kayak Fishing Tips in Central Florida"
   navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: bluesky
-        href: https://bsky.app/
+        href: https://github.com/realfloridafishing
+
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: darkly
     css: styles.css
+    toc: true
 
 
 

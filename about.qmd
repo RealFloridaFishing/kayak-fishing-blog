@@ -1,19 +1,26 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Real Florida Fishing"
+image: Redfish.jpg
 about:
   template: jolla
   links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app/
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+    - icon: youtube
+      text: Youtube Channel
+      href: https://www.youtube.com/@RealFLFishing
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/RealFloridaFishing
 
 ---
 
-About this blog
+About Real Florida Kayak Fishing
+
+Welcome to Real Florida Kayak Fishing, a blog dedicated to sharing the experiences, lessons, and adventures that come with chasing fish from a kayak in the Sunshine State.
+
+Whether you're new to kayak fishing or a seasoned angler looking for fresh ideas, you'll find practical information gathered from time spent on the water. This site covers fishing reports, kayak rigging and modifications, gear reviews, tackle recommendations, launch locations, and the countless lessons learned through trial and error.
+
+The goal is simple: help fellow anglers spend less time figuring things out and more time catching fish. Every fishing trip teaches something new, and this blog is where those successes, mistakes, and discoveries are shared.
+
+From inshore flats and backwater creeks to lakes and coastal waters, Real Florida Kayak Fishing is all about the pursuit of fish, the freedom and limitations of fishing from a kayak, and enjoying everything Florida has to offer.
+
+Thanks for stopping by, and tight lines!
