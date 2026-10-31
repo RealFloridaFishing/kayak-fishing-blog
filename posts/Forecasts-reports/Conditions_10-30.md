@@ -2,6 +2,7 @@
 title: "Windy Weekend Conditions: October 31–November 1, 2026"
 date: 2026-10-30
 description: "A quick look at the windy forecast and what to consider before kayak fishing this weekend."
+category: "Forecasts"
 ---
 
 The forecast for Saturday, October 31, and Sunday, November 1, is calling for winds around 15 mph. I’ll be staying off the water this weekend.
