@@ -1,1 +1,19 @@
 /* css styles */
+.quarto-title-banner:has(.home-title-photo) {
+  position: relative;
+}
+
+.quarto-title-banner:has(.home-title-photo) .quarto-title {
+  padding-right: clamp(7rem, 20vw, 12rem);
+}
+
+.home-title-photo {
+  position: absolute;
+  top: 50%;
+  right: clamp(1rem, 3vw, 2rem);
+  width: clamp(6rem, 16vw, 10rem);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  object-fit: cover;
+  transform: translateY(-50%);
+}

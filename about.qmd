@@ -9,9 +9,6 @@ about:
     - icon: youtube
       text: Youtube Channel
       href: https://www.youtube.com/@RealFLFishing
-    - icon: github
-      text: Github
-      href: https://github.com/RealFloridaFishing
 
 ---
 

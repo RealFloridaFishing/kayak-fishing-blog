@@ -1,5 +1,6 @@
 ---
 title: "Video Archives"
+date: 2026-10-29
 subtitle: 'Inshore and bass fishing videos made prior to this blog can be found on my <a href="https://www.youtube.com/@RealFLFishing" target="_blank" rel="noopener noreferrer" style="color: #526ebc; text-decoration: underline; font-weight: 700;">YouTube channel</a>'
 listing:
   contents: posts
