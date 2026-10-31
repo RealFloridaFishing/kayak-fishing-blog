@@ -1,17 +1,12 @@
 [
   {
-    "listing": "/posts/10-30-26/videoarchive.html",
-    "items": []
+    "listing": "/index.html",
+    "items": [
+      "/posts/Forecasts-reports/Conditions_10-30.html"
+    ]
   },
   {
     "listing": "/gear-reviews.html",
     "items": []
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/Forecasts-reports/Conditions_10-30.html",
-      "/posts/10-30-26/videoarchive.html"
-    ]
   }
 ]
