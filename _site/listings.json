@@ -1,12 +1,15 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/gear-reviews.html",
     "items": [
-      "/posts/Forecasts-reports/Conditions_10-30.html"
+      "/posts/Gear-reviews/BattleII.html"
     ]
   },
   {
-    "listing": "/gear-reviews.html",
-    "items": []
+    "listing": "/index.html",
+    "items": [
+      "/posts/Gear-reviews/BattleII.html",
+      "/posts/Forecasts-reports/Conditions_10-30.html"
+    ]
   }
 ]

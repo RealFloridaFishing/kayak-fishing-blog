@@ -5,7 +5,7 @@ date: 2026-10-31
 category: "Gear reviews"
 ---
 
-![Penn Battle II reel](../../PennBattleii.jpeg)
+![Penn Battle II reel](../../PennBattleii.jpeg){width=50%}
 
 For my first review I am reviewing my oldest inshore reel - the Penn Battle II 2500.  I purchased this reel in 2017 as a combo and considered it my first real inshore setup.  My idea, at the time, was to get one solid reel with available replacement parts that would last forever.  
 
