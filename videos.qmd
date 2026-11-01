@@ -94,4 +94,12 @@ title-block-banner: true
 <iframe src="https://www.youtube-nocookie.com/embed/ekuLTtz18Do" title="Central Florida Bass Fishing in January" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 :::
+
+::: {.video-card}
+## 2024 Florida Inshore Fishing
+
+::: {.youtube-video}
+<iframe src="https://www.youtube-nocookie.com/embed/LM30KPQX3Gg" title="2024 Florida Inshore Fishing" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+:::
 :::
