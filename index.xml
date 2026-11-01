@@ -97,5 +97,64 @@
   <guid>https://RealFloridaFishing.github.io/kayak-fishing-blog/posts/Forecasts-reports/Conditions_10-30.html</guid>
   <pubDate>Fri, 30 Oct 2026 04:00:00 GMT</pubDate>
 </item>
+<item>
+  <title>Create a Digital Fishing Journal with Google Forms</title>
+  <link>https://RealFloridaFishing.github.io/kayak-fishing-blog/posts/Tutorials/FishingJournal.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Keeping track of your fishing trips can help you learn what works and improve your results. A digital fishing journal makes it easy to record catches, locations, weather conditions, and bait choices.</p>
+<section id="why-use-a-digital-fishing-journal" class="level2">
+<h2 class="anchored" data-anchor-id="why-use-a-digital-fishing-journal">Why Use a Digital Fishing Journal?</h2>
+<p>Instead of keeping notes in a notebook, you can use Google Forms to record your fishing trips and Google Sheets to organize your data.</p>
+<p>With this simple, free setup, you can:</p>
+<ul>
+<li>Track fishing locations and dates.</li>
+<li>Record fish species and catches.</li>
+<li>Keep notes on bait, lures, and weather.</li>
+<li>Review past trips and identify patterns.</li>
+</ul>
+</section>
+<section id="how-to-get-started" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-get-started">How to Get Started</h2>
+<section id="create-a-google-form" class="level3">
+<h3 class="anchored" data-anchor-id="create-a-google-form">1. Create a Google Form</h3>
+<p>Visit <a href="https://forms.google.com/">Google Forms</a> and create a new form called “Fishing Journal.”</p>
+<p>Add questions for the date, location, weather, bait used, fish caught, and any notes about your trip.</p>
+</section>
+<section id="connect-google-sheets" class="level3">
+<h3 class="anchored" data-anchor-id="connect-google-sheets">2. Connect Google Sheets</h3>
+<p>Open the <strong>Responses</strong> tab in your form and link it to a Google Sheet. Each form submission will be saved as a new row in your spreadsheet.</p>
+</section>
+<section id="record-your-fishing-trips" class="level3">
+<h3 class="anchored" data-anchor-id="record-your-fishing-trips">3. Record Your Fishing Trips</h3>
+<p>Open your form on your phone after each trip and enter your observations. Keep it simple so you can record information quickly and consistently.</p>
+</section>
+<section id="review-your-results" class="level3">
+<h3 class="anchored" data-anchor-id="review-your-results">4. Review Your Results</h3>
+<p>Over time, your spreadsheet will become a useful record of your fishing experiences. You can sort and filter your data to compare locations, baits, weather conditions, and catches.</p>
+</section>
+</section>
+<section id="start-tracking-your-fishing-adventures" class="level2">
+<h2 class="anchored" data-anchor-id="start-tracking-your-fishing-adventures">Start Tracking Your Fishing Adventures</h2>
+<p>A digital fishing journal doesn’t need to be complicated or expensive. Google Forms and Google Sheets provide an easy way to organize your fishing data and learn from past trips.</p>
+<p>Start with a few basic questions and add more details as needed. The more consistently you record your trips, the more useful your fishing journal will become.</p>
+</section>
+<section id="watch-the-tutorial" class="level2">
+<h2 class="anchored" data-anchor-id="watch-the-tutorial">Watch the Tutorial</h2>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LM30KPQX3Gg" title="Create a Digital Fishing Journal with Google Forms" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+</iframe>
+
+
+</section>
+
+ ]]></description>
+  <category>Tutorials</category>
+  <guid>https://RealFloridaFishing.github.io/kayak-fishing-blog/posts/Tutorials/FishingJournal.html</guid>
+  <pubDate>Sun, 01 Nov 2026 16:12:42 GMT</pubDate>
+</item>
 </channel>
 </rss>
