@@ -26,6 +26,10 @@
   width: 50%;
 }
 
+.quarto-listing-container-default .quarto-post .thumbnail a[href*="StCroixTriumph-7ft-Medium.html"] img {
+  width: 50%;
+}
+
 .youtube-videos {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 360px), 1fr));
