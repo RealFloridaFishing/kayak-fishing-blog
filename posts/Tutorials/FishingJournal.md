@@ -47,4 +47,4 @@ Start with a few basic questions and add more details as needed. The more consis
 
 ## Watch the Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LM30KPQX3Gg" title="Create a Digital Fishing Journal with Google Forms" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NxECn4ZKztQ" title="Create a Digital Fishing Journal with Google Forms" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
