@@ -30,6 +30,10 @@
   width: 50%;
 }
 
+.triumph-review-image {
+  transform: rotate(90deg);
+}
+
 .youtube-videos {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 360px), 1fr));
