@@ -2,6 +2,7 @@
 ---
 title: "Create a Digital Fishing Journal with Google Forms"
 description: "Learn how to create a free digital fishing journal using Google Forms and Google Sheets."
+date: 2026-11-02
 categories:
   - "Tutorials"
 ---

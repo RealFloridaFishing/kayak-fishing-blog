@@ -1,12 +1,12 @@
 ---
 title: "Weekend Conditions and Kayak Launch sites: November 7-8, 2026"
 date: 2026-11-05
-description: "A quick weekend fishing forecast for the Titusville/Oak Hill area and current kayak launch site conditions."
+description: "A weekend fishing forecast for the Titusville/Oak Hill area and current kayak launch site conditions."
 categories:
   - "Forecasts"
 ---
 
-The Titusville/Oak Hill area is looking like a solid weekend for fishing, with comfortable temperatures and manageable wind conditions for most kayakers. Here is a quick look at the forecast for this weekend.
+The Titusville/Oak Hill area is looking like a solid weekend for fishing, with comfortable temperatures and manageable wind conditions for most kayakers. Here is a look at the forecast for this weekend.
 
 ## Weekend Fishing Forecast
 
@@ -24,6 +24,5 @@ Here are the current launch site statuses for this weekend in the Titusville/Oak
 - KARS Park: Open
 - Titusville Marina: Open
 - Biolab Road: Open
-- River Breeze Boat Launch: Closed
-
-I will check out other launch locations this weekend to verify the statuses and keep an eye on any changes before heading out.
+- River Breeze Boat Launch: Now Open
+- Beacon 42 : Open

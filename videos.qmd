@@ -8,6 +8,14 @@ title-block-banner: true
 ::: {.youtube-videos}
 
 ::: {.video-card}
+## Mosquito Lagoon Fishing Trip - November 12, 2026
+
+::: {.youtube-video}
+<iframe src="https://www.youtube-nocookie.com/embed/GhhaMEr_pis" title="Mosquito Lagoon Fishing Trip - November 12, 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+:::
+
+::: {.video-card}
 ## Surprise catch inshore fishing the IRL 10-4-26
 
 ::: {.youtube-video}
